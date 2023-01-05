@@ -1,6 +1,6 @@
-package response;
+package com.example.hotel.response;
 
-import model.Links;
+import com.example.hotel.model.Links;
 
 public class ReservationResponse {
 

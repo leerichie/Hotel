@@ -1,4 +1,4 @@
-package model;
+package com.example.hotel.model;
 
 public class Links {
 

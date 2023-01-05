@@ -1,4 +1,4 @@
-package rest;
+package com.example.hotel.rest;
 
 
 public class ResourceConstants {
